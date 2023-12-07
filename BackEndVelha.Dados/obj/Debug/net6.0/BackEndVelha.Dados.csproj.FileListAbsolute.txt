@@ -10,3 +10,15 @@ C:\Users\Lucas\source\repos\backEndVelha\BackEndVelha.Dados\obj\Debug\net6.0\ref
 C:\Users\Lucas\source\repos\backEndVelha\BackEndVelha.Dados\obj\Debug\net6.0\BackEndVelha.Dados.pdb
 C:\Users\Lucas\source\repos\backEndVelha\BackEndVelha.Dados\obj\Debug\net6.0\ref\BackEndVelha.Dados.dll
 C:\Users\Lucas\source\repos\backEndVelha\BackEndVelha.Dados\obj\Debug\net6.0\BackEndVelha.Dados.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\ahamm\back-end-velha\BackEndVelha\BackEndVelha.Dados\bin\Debug\net6.0\BackEndVelha.Dados.deps.json
+C:\Users\Lucas\Desktop\ahamm\back-end-velha\BackEndVelha\BackEndVelha.Dados\bin\Debug\net6.0\BackEndVelha.Dados.dll
+C:\Users\Lucas\Desktop\ahamm\back-end-velha\BackEndVelha\BackEndVelha.Dados\bin\Debug\net6.0\BackEndVelha.Dados.pdb
+C:\Users\Lucas\Desktop\ahamm\back-end-velha\BackEndVelha\BackEndVelha.Dados\obj\Debug\net6.0\BackEndVelha.Dados.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\ahamm\back-end-velha\BackEndVelha\BackEndVelha.Dados\obj\Debug\net6.0\BackEndVelha.Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\ahamm\back-end-velha\BackEndVelha\BackEndVelha.Dados\obj\Debug\net6.0\BackEndVelha.Dados.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\ahamm\back-end-velha\BackEndVelha\BackEndVelha.Dados\obj\Debug\net6.0\BackEndVelha.Dados.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\ahamm\back-end-velha\BackEndVelha\BackEndVelha.Dados\obj\Debug\net6.0\BackEndVelha.Dados.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\ahamm\back-end-velha\BackEndVelha\BackEndVelha.Dados\obj\Debug\net6.0\BackEndVelha.Dados.dll
+C:\Users\Lucas\Desktop\ahamm\back-end-velha\BackEndVelha\BackEndVelha.Dados\obj\Debug\net6.0\refint\BackEndVelha.Dados.dll
+C:\Users\Lucas\Desktop\ahamm\back-end-velha\BackEndVelha\BackEndVelha.Dados\obj\Debug\net6.0\BackEndVelha.Dados.pdb
+C:\Users\Lucas\Desktop\ahamm\back-end-velha\BackEndVelha\BackEndVelha.Dados\obj\Debug\net6.0\ref\BackEndVelha.Dados.dll

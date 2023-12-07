@@ -1631,11 +1631,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lucas\\source\\repos\\backEndVelha\\backEndVelha\\backEndVelha.csproj",
+      "projectUniqueName": "C:\\Users\\Lucas\\Desktop\\ahamm\\back-end-velha\\BackEndVelha\\backEndVelha\\backEndVelha.csproj",
       "projectName": "backEndVelha",
-      "projectPath": "C:\\Users\\Lucas\\source\\repos\\backEndVelha\\backEndVelha\\backEndVelha.csproj",
+      "projectPath": "C:\\Users\\Lucas\\Desktop\\ahamm\\back-end-velha\\BackEndVelha\\backEndVelha\\backEndVelha.csproj",
       "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lucas\\source\\repos\\backEndVelha\\backEndVelha\\obj\\",
+      "outputPath": "C:\\Users\\Lucas\\Desktop\\ahamm\\back-end-velha\\BackEndVelha\\backEndVelha\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1652,8 +1652,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Lucas\\source\\repos\\backEndVelha\\BackEndVelha.Dados\\BackEndVelha.Dados.csproj": {
-              "projectPath": "C:\\Users\\Lucas\\source\\repos\\backEndVelha\\BackEndVelha.Dados\\BackEndVelha.Dados.csproj"
+            "C:\\Users\\Lucas\\Desktop\\ahamm\\back-end-velha\\BackEndVelha\\BackEndVelha.Dados\\BackEndVelha.Dados.csproj": {
+              "projectPath": "C:\\Users\\Lucas\\Desktop\\ahamm\\back-end-velha\\BackEndVelha\\BackEndVelha.Dados\\BackEndVelha.Dados.csproj"
             }
           }
         }

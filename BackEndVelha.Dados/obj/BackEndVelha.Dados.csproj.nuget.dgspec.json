@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lucas\\source\\repos\\backEndVelha\\BackEndVelha.Dados\\BackEndVelha.Dados.csproj": {}
+    "C:\\Users\\Lucas\\Desktop\\ahamm\\back-end-velha\\BackEndVelha\\BackEndVelha.Dados\\BackEndVelha.Dados.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lucas\\source\\repos\\backEndVelha\\BackEndVelha.Dados\\BackEndVelha.Dados.csproj": {
+    "C:\\Users\\Lucas\\Desktop\\ahamm\\back-end-velha\\BackEndVelha\\BackEndVelha.Dados\\BackEndVelha.Dados.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lucas\\source\\repos\\backEndVelha\\BackEndVelha.Dados\\BackEndVelha.Dados.csproj",
+        "projectUniqueName": "C:\\Users\\Lucas\\Desktop\\ahamm\\back-end-velha\\BackEndVelha\\BackEndVelha.Dados\\BackEndVelha.Dados.csproj",
         "projectName": "BackEndVelha.Dados",
-        "projectPath": "C:\\Users\\Lucas\\source\\repos\\backEndVelha\\BackEndVelha.Dados\\BackEndVelha.Dados.csproj",
+        "projectPath": "C:\\Users\\Lucas\\Desktop\\ahamm\\back-end-velha\\BackEndVelha\\BackEndVelha.Dados\\BackEndVelha.Dados.csproj",
         "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lucas\\source\\repos\\backEndVelha\\BackEndVelha.Dados\\obj\\",
+        "outputPath": "C:\\Users\\Lucas\\Desktop\\ahamm\\back-end-velha\\BackEndVelha\\BackEndVelha.Dados\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",

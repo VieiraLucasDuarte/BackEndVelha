@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CqSMS0mTV8k/O9/l+sglepdrV8cEsn1sU0wfGp345tNOfgfp7d0uOip0YLdZSxr3SshGB7sL8mlYymzWRji7Jg==",
+  "dgSpecHash": "SsG34/UhstjCV/uw2yEDpVbwM1fghDtfF2xEPgnFf4cmYhIddoaYbHDFI7ppLyOlpitjFc56V/lk4lGPy040zg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lucas\\source\\repos\\backEndVelha\\BackEndVelha.Dados\\BackEndVelha.Dados.csproj",
+  "projectFilePath": "C:\\Users\\Lucas\\Desktop\\ahamm\\back-end-velha\\BackEndVelha\\BackEndVelha.Dados\\BackEndVelha.Dados.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.0\\microsoft.data.sqlite.core.7.0.0.nupkg.sha512",
     "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0\\microsoft.entityframeworkcore.7.0.0.nupkg.sha512",
